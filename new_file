@@ -1,4 +1,6 @@
 some code
 
+console.log("hello git and Github");
+
 package main
 func main {}
